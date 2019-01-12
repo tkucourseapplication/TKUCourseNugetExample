@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TKUCourseExample\LoopOrderExample\bin\Release\LoopOrderExample.exe.config
+C:\Users\User\source\repos\TKUCourseExample\LoopOrderExample\bin\Release\LoopOrderExample.exe
+C:\Users\User\source\repos\TKUCourseExample\LoopOrderExample\bin\Release\LoopOrderExample.pdb
+C:\Users\User\source\repos\TKUCourseExample\LoopOrderExample\obj\Release\LoopOrderExample.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TKUCourseExample\LoopOrderExample\obj\Release\LoopOrderExample.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TKUCourseExample\LoopOrderExample\obj\Release\LoopOrderExample.exe
+C:\Users\User\source\repos\TKUCourseExample\LoopOrderExample\obj\Release\LoopOrderExample.pdb
+C:\Users\User\source\repos\TKUCourseExample\LoopOrderExample\bin\Release\TKUCourse.dll
+C:\Users\User\source\repos\TKUCourseExample\LoopOrderExample\bin\Release\TKUCourse.xml
+C:\Users\User\source\repos\TKUCourseExample\LoopOrderExample\obj\Release\LoopOrderExample.csproj.CopyComplete

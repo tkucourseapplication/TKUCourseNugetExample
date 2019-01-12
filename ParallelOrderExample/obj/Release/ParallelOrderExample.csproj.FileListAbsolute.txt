@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TKUCourseExample\ParallelOrderExample\bin\Release\ParallelOrderExample.exe.config
+C:\Users\User\source\repos\TKUCourseExample\ParallelOrderExample\bin\Release\ParallelOrderExample.exe
+C:\Users\User\source\repos\TKUCourseExample\ParallelOrderExample\bin\Release\ParallelOrderExample.pdb
+C:\Users\User\source\repos\TKUCourseExample\ParallelOrderExample\obj\Release\ParallelOrderExample.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TKUCourseExample\ParallelOrderExample\obj\Release\ParallelOrderExample.exe
+C:\Users\User\source\repos\TKUCourseExample\ParallelOrderExample\obj\Release\ParallelOrderExample.pdb
+C:\Users\User\source\repos\TKUCourseExample\ParallelOrderExample\bin\Release\TKUCourse.dll
+C:\Users\User\source\repos\TKUCourseExample\ParallelOrderExample\bin\Release\TKUCourse.xml
+C:\Users\User\source\repos\TKUCourseExample\ParallelOrderExample\obj\Release\ParallelOrderExample.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TKUCourseExample\ParallelOrderExample\obj\Release\ParallelOrderExample.csproj.CopyComplete

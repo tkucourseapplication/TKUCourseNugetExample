@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TKUCourseExample\TKUCourseExample\bin\Release\TKUCourseExample.exe.config
+C:\Users\User\source\repos\TKUCourseExample\TKUCourseExample\bin\Release\TKUCourseExample.exe
+C:\Users\User\source\repos\TKUCourseExample\TKUCourseExample\bin\Release\TKUCourseExample.pdb
+C:\Users\User\source\repos\TKUCourseExample\TKUCourseExample\obj\Release\NormalOrderExample.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TKUCourseExample\TKUCourseExample\obj\Release\TKUCourseExample.exe
+C:\Users\User\source\repos\TKUCourseExample\TKUCourseExample\obj\Release\TKUCourseExample.pdb
+C:\Users\User\source\repos\TKUCourseExample\TKUCourseExample\bin\Release\TKUCourse.dll
+C:\Users\User\source\repos\TKUCourseExample\TKUCourseExample\bin\Release\TKUCourse.xml
+C:\Users\User\source\repos\TKUCourseExample\TKUCourseExample\obj\Release\NormalOrderExample.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TKUCourseExample\TKUCourseExample\obj\Release\NormalOrderExample.csproj.CopyComplete
