@@ -56,18 +56,18 @@ while (tku.Login("your_student_id", "your_student_password") == false){
 
 //If add successfully, return true, else return false
 if (tku.AddCourse("1234")){
-    Console.WriteLine("Add : " + s + " Successfully!!");
+    Console.WriteLine("Add Successfully!!");
 }
 else{
-    Console.WriteLine("Add : " + s + " Failed!!");
+    Console.WriteLine("Add Failed!!");
 }
 	
 //If drop successfully, return true, else return false
 if (tku.DropCourse("1234")){
-    Console.WriteLine("Drop : " + s + " Successfully!!");
+    Console.WriteLine("Drop Successfully!!");
 }
 else{
-    Console.WriteLine("Drop : " + s + " Failed!!");
+    Console.WriteLine("Drop Failed!!");
 }
 ```
 ### English Server
@@ -81,18 +81,18 @@ while (tku.Login("your_student_id", "your_student_password") == false){
 
 //If add successfully, return true, else return false
 if (tku.AddCourse("1234")){
-    Console.WriteLine("Add : " + s + " Successfully!!");
+    Console.WriteLine("Add Successfully!!");
 }
 else{
-    Console.WriteLine("Add : " + s + " Failed!!");
+    Console.WriteLine("Add Failed!!");
 }
 	
 //If drop successfully, return true, else return false
 if (tku.DropCourse("1234")){
-    Console.WriteLine("Drop : " + s + " Successfully!!");
+    Console.WriteLine("Drop Successfully!!");
 }
 else{
-    Console.WriteLine("Drop : " + s + " Failed!!");
+    Console.WriteLine("Drop Failed!!");
 }
 ```
 
