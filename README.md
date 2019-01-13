@@ -2,9 +2,9 @@ A .NET wrapper for TKUCourseApplication
 
 This is a program to help you on TKU curriculum online system (Include the break captcha).
 
-[Nuget Package Page](https://www.nuget.org/packages/TKUCourseApplication)
-
 [TKU Curriculum Online System(Chinese)](http://www.ais.tku.edu.tw/elecos/)  [TKU Curriculum Online System(English)](http://www.ais.tku.edu.tw/EleCos_English/loginE.aspx)
+
+Package examples : [GitHub](https://github.com/tkucourseapplication/TKUCourseNugetExample)
 
 ## Dependencies
 
@@ -48,45 +48,56 @@ Since TKUCourseApplication compiled with Visual Studio 2017 you'll need to ensur
 ### Chinese Server
 ```c#
 TKUCourse.CHT tku = new TKUCourse.CHT();
+
+//If success login, return true, else return false
 while (tku.Login("your_student_id", "your_student_password") == false){
     Console.WriteLine("Attempt login...");
-}// If success login, return true, else return false
+}
 
-if (tku.AddCourse("1234")){//If add successfully, return true, else return false
+//If add successfully, return true, else return false
+if (tku.AddCourse("1234")){
     Console.WriteLine("Add : " + s + " Successfully!!");
-    }// Display successfully message 
+}
 else{
     Console.WriteLine("Add : " + s + " Failed!!");
-    }//display failed message
+}
 	
-if (tku.DropCourse("1234")){//If drop successfully, return true, else return false
+//If drop successfully, return true, else return false
+if (tku.DropCourse("1234")){
     Console.WriteLine("Drop : " + s + " Successfully!!");
-    }// Display successfully message 
+}
 else{
     Console.WriteLine("Drop : " + s + " Failed!!");
-    }//display failed message
+}
 ```
 ### English Server
 ```c#
 TKUCourse.ENG tku = new TKUCourse.ENG();
+
+//If success login, return true, else return false
 while (tku.Login("your_student_id", "your_student_password") == false){
     Console.WriteLine("Attempt login...");
-}// If success login, return true, else return false
+}
 
-if (tku.AddCourse("1234")){//If add successfully, return true, else return false
+//If add successfully, return true, else return false
+if (tku.AddCourse("1234")){
     Console.WriteLine("Add : " + s + " Successfully!!");
-    }// Display successfully message 
+}
 else{
     Console.WriteLine("Add : " + s + " Failed!!");
-    }//display failed message
+}
 	
-if (tku.DropCourse("1234")){//If drop successfully, return true, else return false
+//If drop successfully, return true, else return false
+if (tku.DropCourse("1234")){
     Console.WriteLine("Drop : " + s + " Successfully!!");
-    }// Display successfully message 
+}
 else{
     Console.WriteLine("Drop : " + s + " Failed!!");
-    }//display failed message
+}
 ```
 
+## Other Examples
+
+You can get more examples from our [GitHub](https://github.com/tkucourseapplication/TKUCourseNugetExample).
 
 [.net-runtime]:https://www.microsoft.com/zh-tw/download/details.aspx?id=30653
